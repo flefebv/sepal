@@ -12,7 +12,7 @@ This repository contains the implementation of the paper:
 > **Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning**  
 > Félix Lefebvre and Gaël Varoquaux  
 > NeurIPS 2025  
-> PDF: https://arxiv.org/pdf/2507.00965
+> PDF: https://arxiv.org/pdf/2507.00965v2
 
 ## ✨ Highlights
 - Scales to knowledge graphs with millions of entities
